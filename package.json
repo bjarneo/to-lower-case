@@ -1,6 +1,6 @@
 {
   "name": "to-lower-case",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String to lower-case in JavaScript",
   "main": "to-lower-case.js",
   "scripts": {

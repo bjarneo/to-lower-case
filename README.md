@@ -1,5 +1,6 @@
 to lower-case
 ===========
+![Travis](https://travis-ci.org/bjarneo/to-lower-case.svg?branch=master) <br />
 
 Lower case a string. Also handles objects with toString property, numbers and booleans.
 

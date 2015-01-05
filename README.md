@@ -5,16 +5,16 @@ Lower case a string. Handles objects with toString property, numbers and boolean
 
 ###Install
 ```javascript
-npm install lower-case --save
+npm install to-lower-case --save
 ```
 
 ###Usage
 ```javascript
-var lowerCase = require('lower-case');
+var toLowerCase = require('to-lower-case');
 
-lowerCase('STRING') // => 'string'
+toLowerCase('STRING') // => 'string'
 
-lowerCase({ toString: function() {
+toLowerCase({ toString: function() {
     return 'my STRING';
 }}); // => 'my string'
 ```

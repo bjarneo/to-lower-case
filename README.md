@@ -1,7 +1,7 @@
 to lower-case
 ===========
 
-Lower case a string. Handles objects with toString property, numbers and booleans.
+Lower case a string. Also handles objects with toString property, numbers and booleans.
 
 ###Install
 ```javascript

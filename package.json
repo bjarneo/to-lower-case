@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bjarneo/toLowerCase.git"
+    "url": "https://github.com/bjarneo/lower-case.git"
   },
   "keywords": [
     "String",
@@ -21,9 +21,9 @@
   "author": "Bjarne Oeverli",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bjarneo/toLowerCase/issues"
+    "url": "https://github.com/bjarneo/lower-case/issues"
   },
-  "homepage": "https://github.com/bjarneo/toLowerCase",
+  "homepage": "https://github.com/bjarneo/lower-case",
   "devDependencies": {
     "mocha": "2.1.0"
   }

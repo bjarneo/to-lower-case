@@ -12,9 +12,13 @@ describe('lower-case', function () {
 
         assert.equal(lowerCase('TEST'), 'test');
 
+        assert.equal(lowerCase(1), '1');
+    });
+
+    it('Should return empty string if null or nothing is passed', function () {
         assert.equal(lowerCase(null), '');
 
-        assert.equal(lowerCase(1), '1');
+        assert.equal(lowerCase(), '');
     });
 
     it('Should lower-case object toString', function () {

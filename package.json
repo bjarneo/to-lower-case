@@ -1,0 +1,30 @@
+{
+  "name": "lower-case",
+  "version": "1.0.0",
+  "description": "String to lower-case in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test":  "node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjarneo/toLowerCase.git"
+  },
+  "keywords": [
+    "String",
+    "lower",
+    "case",
+    "lowercase",
+    "lower-case",
+    "strtolower"
+  ],
+  "author": "Bjarne Oeverli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjarneo/toLowerCase/issues"
+  },
+  "homepage": "https://github.com/bjarneo/toLowerCase",
+  "devDependencies": {
+    "mocha": "2.1.0"
+  }
+}

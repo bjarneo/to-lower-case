@@ -1,11 +1,11 @@
-to Lower-case
+to lower-case
 ===========
 
 Lower case a string. Handles objects with toString property, numbers and booleans.
 
 ###Install
 ```javascript
-npm install lower-case --save 
+npm install lower-case --save
 ```
 
 ###Usage
